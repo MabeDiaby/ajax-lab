@@ -28,7 +28,7 @@ After their fight last time, Dougie the Donut and Pizza Rat have since become be
 
 ## The App
 
-Overall, what Dougie and Pizza Rat want for this app is for it to search through the [311 call data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) provided by the [NYC Open Data API](http://opendata.cityofnewyork.us/), and display all the complaints made to the NYPD, filtered by borough. They also want to see how the police responded to the complaint, since that's what they'll use to determine whether or not they can cause the same trouble without consequences!
+Overall, what Dougie and Pizza Rat want for this app is for it to search through the [updated API docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/erm2-nwe9) or [311 call data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) provided by the [NYC Open Data API](http://opendata.cityofnewyork.us/), and display all the complaints made to the NYPD, filtered by borough. They also want to see how the police responded to the complaint, since that's what they'll use to determine whether or not they can cause the same trouble without consequences!
 
 ## The Data
 
